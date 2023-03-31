@@ -4,8 +4,7 @@
 
 - 👨‍💻 Desenvolvedor Front-end Pleno.
 - 👨‍🎓 Estudando React.js.
-- 🎯 Interesse: JavaScript, Node.js, React.js, Angular, Wordpress, PHP, HTML, CSS e Sass .
-- 🦊 Apaixonado por tecnologia e encantado pela praticidade que ela nos trouxe no decorrer dos últimos anos, é que me faz aprofundar nesta área, aderindo e compartilhando conhecimentos, de forma que eu possa contribuir com a evolução da tecnologia constantemente, a todo momento.
+- 🎯 Interesse: JavaScript, Node.js, React.js, Angular, Next.js, HTML, CSS e Sass.
 
 ## Skills :nerd_face:
 <p align="center">
@@ -45,13 +44,4 @@
     <a href="https://www.linkedin.com/in/iago-henrique-ab158795">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/iago-henrique-ab158795/">
     </a>
-</p>
-
-<p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Iagohcc/count.svg" />
- </p>
-
 </p>
