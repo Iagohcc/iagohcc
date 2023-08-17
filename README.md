@@ -4,7 +4,7 @@
 
 - 👨‍💻 Desenvolvedor Front-end Pleno.
 - 👨‍🎓 Estudando React.js.
-- 🎯 Interesse: JavaScript/TypeScript, Angular, PHP, Node.js, React.js, Next.js, HTML, CSS e Sass.
+- 🎯 Interesse: JavaScript / TypeScript, Angular, PHP, Node.js, React.js, Next.js, HTML, CSS e Sass.
 
 ## Skills :nerd_face:
 <p align="center">
